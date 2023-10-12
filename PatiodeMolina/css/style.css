@@ -15,7 +15,7 @@ header {
 
 
 .navbar {
-  position: sticky;
+  position: fixed;
   background-color: #e75771;
   width: 100%;
 }
